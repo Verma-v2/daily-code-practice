@@ -1,0 +1,118 @@
+body {
+display: block;
+padding-top: 20px ;
+padding-bottom: 20px ;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+'Helvetica Neue', Arial, sans-serif;
+font-size: 16px;
+text-align: center;
+line-height: 1.5;
+color:#333
+margin:0;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 5px;
+    background: #eeee;
+    display:block;
+
+}
+
+#title{
+   padding-top: 1.6rem;
+    font-weight:bold;
+    color:#333
+    
+}
+
+#description {
+    font-size: 1rem;
+}
+
+#img-div{
+display: block;
+margin: 16px;
+padding-top: 16px;
+padding-bottom: 16px;
+background: #fff;
+border-radius:5px;
+}
+#img-caption p{
+    font-size: 14px;
+    color:#666;
+
+}
+
+
+#image{
+    display:block;
+    max-width:100%;
+    height:auto;
+    margin: 0 auto;
+    padding-bottom: 8px;
+  
+  }
+
+#tribute-info{
+    display: block;
+    font-size: 16px;
+
+}
+
+#tribute-data{
+    display: block;
+    font-size: 16px;
+    padding-top: 8px;
+    content-align: left;
+    
+    }
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    padding-inline-start: 40px;
+    padding-inline-end: 0px;
+  }
+
+li{
+    margin: 8px;
+    line-height: 2;
+    text-align: left;
+}  
+
+#quote{
+    font-size: 16px;
+    font-style: italic;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-inline-start: 40px;
+    margin: 0 auto 20px auto;
+    max-width: 550px;
+    text-align: left;
+  
+}
+
+#tribute-more{
+
+
+text-align: center;
+font-weight: bold;
+font-size:20px;
+padding-bottom: 40px;
+}
+
+#tribute-more, cite{
+    display: block;
+    margin-top: 10px;
+
+}
+
+#tribute-link{
+    color: #477ca7;
+
+}
