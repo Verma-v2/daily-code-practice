@@ -1,0 +1,2 @@
+# This project is a replica of https://tribute-page.freecodecamp.rocks/
+# on second day I did replicated the tribute page as project for this code. Hope you gonna like this. Also you can check my code and drop me comment if there is any improvement.
